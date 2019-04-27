@@ -62,6 +62,11 @@ body {
   height: 100%;
 }
 
+.coverImage:hover {
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
 .cardsImage {
   height: 200px;
   width: 200px;
